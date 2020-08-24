@@ -1,12 +1,13 @@
-<!DOCTYPE html>
-<head lang="sv">
+
+<html lang="sv">
+<head>
 <meta charset="URF-8">
 <Title>Uppgift 1</title>
 
 </head>
 <body>
 
-<h1> David Ekstedt <h1/>
+<h1> David Ekstedt </h1>
 <p> Jag heter David Ekstedt och är 17 år gammal. </p>
 
 <p> yo, Jag heter David jag gillar och spela dator, träna på gym. Favorit mat skolans mozaka. </p>
@@ -20,9 +21,8 @@
 
 <a href="https://www.vaxjo.se/sidor/forskola-och-skola/gymnasieskola/teknikum.html">Klicka Mig</a>
 
-<img scr="Teknikums.png" alt="Teknikum">
-
-
+<img src="Teknikum.png" alt="Teknikum">
+</body>
 </html>
 
 
