@@ -9,10 +9,12 @@ h1{
 	font-size: 200%; 
 	text-align: Right; 
 	border: 22px solid sky:
-
-   }
-   
-  p.text {
+	}	
+h2{ 
+	text-decoration-line: none;
+	
+	
+p.text {
   
   color: navy;
   background-color: violet;
@@ -25,6 +27,14 @@ h1{
 	  color: ForestGreen;
 	  background-color: SeaGreen;
 	  text-align: right;
+	  
+	  }
+p.Om 
+outline: 2px dashed red;
+text-align: left;
+color: Salmon;
+	  
+	  
 	
 
 	
