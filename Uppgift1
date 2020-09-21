@@ -1,7 +1,7 @@
-
+<!DOCTYPE html>
 <html lang="sv">
 <head>
-<meta charset="URF-8">
+<meta charset="UTF-8">
 <Title>Uppgift 1</title>
 <link href="style.css" rel="stylesheet">
 
@@ -22,58 +22,58 @@
 <a href="https://www.vaxjo.se/sidor/forskola-och-skola/gymnasieskola/teknikum.html">Klicka Mig</a>
 
 <img src="Teknikum.png" alt="Teknikum">
-</body>
-</html>
 
 
-<table> {
+
+
+<table> 
 	<thead>
 	<tr>
 	<th> Namn </th>
 	<th> År </th>
 	<th> Klockfrekvens </th>
 	<th> Antal transistorer </th>
+	</tr>
 	
-	</th>
 	</thead>
 	
 	<tbody>
 	<tr>
-	<td> Intel 8088 </tb>
-	<td> 1979 </tb>
-	<td> 4,77 MHz </tb>
-	<td> 29 000 </tb>
+	<td> Intel 8088 </td>
+	<td> 1979 </td>
+	<td> 4,77 MHz </td>
+	<td> 29 000 </td>
 	
 	</tr>
 	
 	<tr>
-	<td> Intel 80386DX </tb>
-	<td> 1985 </tb>
-	<td> 16 MHz </tb>
-	<td> 275 000 </tb>
+	<td> Intel 80386DX </td>
+	<td> 1985 </td>
+	<td> 16 MHz </td>
+	<td> 275 000 </td>
   
   </tr>
   <tr>
-  <td> Pentium </tb>
-  <td> 1993 </tb>
-  <td> 60 MHz </tb>
-  <td> 3100000 </tb>
+  <td> Pentium </td>
+  <td> 1993 </td>
+  <td> 60 MHz </td>
+  <td> 3100000 </td>
   
   </tr>
   <tr>
-  <td> Core i7 </tb>
-  <td> 2008 </tb>
-  <td> 3,33 GHz </tb>
-  <td> 781000000 </tb>
+  <td> Core i7 </td>
+  <td> 2008 </td>
+  <td> 3,33 GHz </td>
+  <td> 781000000 </td>
   
   
   </tr>
   
   </tbody>
   </table>
-  </thead>
-  
-  
+  </body>
+  </html>
+
 
 
 
