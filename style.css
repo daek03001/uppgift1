@@ -8,12 +8,13 @@ h1{
 	background-color: indigo;
 	font-size: 200%; 
 	text-align: Right; 
-	border: 22px solid sky:
+	border: 22px Indigo;
 	}	
 h2{ 
 	text-decoration-line: none;
 	border-style: none;
 	
+	} 
 	
 p.text {
   
@@ -30,11 +31,11 @@ p.text {
 	  text-align: right;
 	  
 	  }
-p.Om 
+p.Om {
 outline: 2px dashed red;
 text-align: left;
 color: Salmon;
-	
+	}
 	
 
 	table,th,td {
