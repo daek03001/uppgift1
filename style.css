@@ -34,6 +34,17 @@ p.Om
 outline: 2px dashed red;
 text-align: left;
 color: Salmon;
+	
+	
+
+	table,th,td {
+	border: 1px solid black; 
+	border-collapse: collapse;
+	background-color: Salmon;
+		
+		
+}
+
 	  
 	  
 	
